@@ -1,0 +1,5 @@
+.env
+*.tfstate
+*.tfstate.backup
+data/*
+__pycache__/
